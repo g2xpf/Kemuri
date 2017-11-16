@@ -1,10 +1,10 @@
 #include <iostream>
+#include <algorithm>
+#include <cstdio>
 #include <stack>
 #include <bitset>
 #include <string>
 #include <vector>
-#include <algorithm>
-
 using namespace std;
 
 /* 
@@ -28,6 +28,9 @@ using namespace std;
  * 0 1 -> 1
  * 1 0 -> 1
  * 1 1 -> 0
+ *
+ * Hello, world!
+ * 000 00 0 0 00
  *
  */
 
